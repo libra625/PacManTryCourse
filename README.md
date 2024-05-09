@@ -1,1 +1,3 @@
 # PacManTryCourse
+
+simple Pacman game
